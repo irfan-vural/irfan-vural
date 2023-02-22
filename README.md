@@ -22,7 +22,7 @@
  
 ![Flutter](https://img.shields.io/badge/Flutter-61DAFB?logo=flutter&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-61DAFB?logo=dart&logoColor=white&style=for-the-badge)
-![JAVA](https://img.shields.io/badge/JAVA-61DAFB?logo=java&logoColor=white&style=for-the-badge)
+
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
