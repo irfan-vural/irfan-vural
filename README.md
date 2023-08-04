@@ -12,10 +12,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently studying at the university of [FSMVU](https://int.fsm.edu.tr/);
-- 🌱 I’m currently learning Front-End Development; 
+- 👨🏽‍💻 Student at the university of [FSMVU](https://int.fsm.edu.tr/);
+- 🌱 I’m currently working at a company as a junior Flutter developer; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: irfanvural.http@gmail.com;
+- 📫 How to reach me: irfanvural.dev@gmail.com;
 
 ## Some stuff I've used
 
@@ -27,5 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
