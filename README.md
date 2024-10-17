@@ -12,8 +12,8 @@
 
 <img width="35%" align="right" alt="Github" src="https://camo.githubusercontent.com/f9ab3af0482570a32a73d256b071bbad03ca96df338f95f0297e775a8b53babd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f337a79573442414f6d356878795144714a372f67697068792e676966" />
 
-- 👨🏽‍💻 Student at the university of [FSMVU](https://int.fsm.edu.tr/);
-- 🌱 I’m currently working at a company as a junior Flutter developer; 
+
+- 🌱 I’m currently working at a company as a Flutter developer; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: irfanvural.dev@gmail.com;
 
