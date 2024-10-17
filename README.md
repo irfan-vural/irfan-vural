@@ -10,9 +10,6 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="35%" align="right" alt="Github" src="https://media.istockphoto.com/id/1202250586/tr/foto%C4%9Fraf/program-kodu-javascript-php-html-css-sitenin-web-geli%C5%9Ftirme-programc%C4%B1-i%C5%9F-ak%C4%B1%C5%9F%C4%B1-kaynak-kodu.jpg?s=2048x2048&w=is&k=20&c=TEJ33ewP18LNUXj3eIszMjlXb2YIxnltvjYQLwP2zbA=" />
-
-
 - 🌱 I’m currently working at a company as a Flutter developer; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: irfanvural.dev@gmail.com;
